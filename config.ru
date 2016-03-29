@@ -1,0 +1,2 @@
+require "./pastebot"
+run Pastebot

@@ -1,0 +1,5 @@
+$paste = Paste.$
+$spaghetti = :spaghetti:$
+$rip = REST IN PEPPERONI$
+$!smeac = I got chu fam: https://docs.google.com/document/d/1Zo2Id7PWoxF3xQ7B3OFgWhxHhihCxY0Pvl5VCQJcXcQ/edit?usp=sharing$
+$!squad doc = I got chu fam: https://docs.google.com/spreadsheets/d/1N6ukUF0i5c4inlLaN5XbZ2gj_A8fqDJRRVpi7O3pGts/edit?usp=sharing$

@@ -1,0 +1,14 @@
+$1 =  paste.$
+$2 =  eats paste for breakfast.$
+$4 =  is smelling burnt toast.$
+$5 =  oy gevalt :flag-il:$
+$6 =  is low speed, high drag.$
+$7 =  has been demoted to recruit.$
+$8 =  is huffing glue.$
+$9 =  will be the first to die at the next forcewide.$
+$10 =  is the new Hemmi.$
+$11 =  oy vey :flag-il:$
+$12 =  soon brother... :flag-iq:$
+$13 =  cyka blyat!$
+$14 =  blyat!$
+$15 =  brb$
